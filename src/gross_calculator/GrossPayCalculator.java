@@ -2,6 +2,10 @@ package gross_calculator;
 
 public class GrossPayCalculator {
     public static void main(String[] args){
-        System.out.println("Hello World");
+
+        int hours = 40;
+        double payRate = 25.50;
+        double result = hours * payRate;
+        System.out.println("Month payment: " + result);
     }
 }

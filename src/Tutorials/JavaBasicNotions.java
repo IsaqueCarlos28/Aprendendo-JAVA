@@ -17,6 +17,8 @@ public class JavaBasicNotions {
     public static void main(String[] args) {
         //Code to show a message on the console
         System.out.println("Hello World");
-        //Reserved words have different collors
+
+        /* Reserved words have different collors, they already have proper meaning so
+        they cant be used to name things */
     }
 }
