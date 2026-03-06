@@ -44,9 +44,9 @@ public class VariablesAndTypes {
         // char | default: '\u0000' | size: 16-bit | only one character
         char c = 'c';
 
-        /* Besides being a Static Typed language, it offers type inference (dynamic typing)
-        for LOCAL VARIABLES using "var", but in order to use it the value of the variable
-        must be assigned at it's declaration */
+        /* Besides being a Static Typed language, it offers type inference for LOCAL VARIABLES
+        using "var", where it defines the type of the variable based on its value, but in
+        order to use it the value of the variable must be assigned at it's declaration */
 
         boolean isFalse = false;
         // ==
