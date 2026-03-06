@@ -1,6 +1,6 @@
-package Tutorials;
+package tutorials;
 
-public class numericOperators {
+public class NumericOperators {
     public static void main(String[] args){
 
         int adition = 1 + 1;

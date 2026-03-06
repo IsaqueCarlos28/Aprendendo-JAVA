@@ -1,4 +1,4 @@
-package gross_calculator;
+package activities;
 
 import java.util.Locale;
 import java.util.Scanner;
