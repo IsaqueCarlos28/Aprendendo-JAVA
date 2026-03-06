@@ -15,6 +15,7 @@ public class GrossPayCalculator {
     when the class is called */
     //Declaration of the main Method
     public static void main(String[] args){
-
+        //Code to show a message on the console
+        System.out.println("Hello World");
     }
 }
