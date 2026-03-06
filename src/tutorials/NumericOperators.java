@@ -6,8 +6,8 @@ public class NumericOperators {
         int adition = 1 + 1;
         int substraction = 2 - 1;
         int multiply = 3 * 3;
-        double division = 4 / 2;
-        double module = 5 % 2;
+        int division = 4 / 2;
+        int module = 5 % 2;
 
         System.out.println( "adition :" + adition);
         System.out.println( "substraction :" + substraction);
