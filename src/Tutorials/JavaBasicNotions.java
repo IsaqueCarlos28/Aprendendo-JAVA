@@ -1,13 +1,13 @@
 /*Packages are folders/conteiners that contain java files
 used for logical grouping of java files*/
 //Declaration of the package this class belongs to, it happens in the beginning of the file.
-//Convention: packages names must be in lower case separated by underscore("_")
+//CONVENTION: packages names must be in lower case separated by underscore("_")
 package Tutorials;
 
 //Java files are called Classes (OOP)
 /*Declaration of the class and start of the Java class
 the code is built within the braces ("{}")*/
-/*Convention: class names must have no separation between words and each word
+/*CONVENTION: class names must have no separation between words and each word
 must begin with a capital letter*/
 public class JavaBasicNotions {
     //In order to run any code within a java class they must be in a method
