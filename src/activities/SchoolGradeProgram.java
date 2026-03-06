@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 public class SchoolGradeProgram {
     public static void main(String[] args){
-
-
         char grade = 'X';
 
         Scanner scanner = new Scanner(System.in);
@@ -24,5 +22,14 @@ public class SchoolGradeProgram {
         }else{
             grade = 'A';
         }
+
+        String message = switch (grade){
+            case 'A' -> "Excellent Job!";
+            case 'B' -> "Good Job!";
+            case 'C' -> "Regular";
+            case 'D'-> "Good look next time";
+            case 'E'-> "Study more";
+            default -> "error, input a valid grade";
+        };
     }
 }
