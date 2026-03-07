@@ -39,14 +39,16 @@ public class Methods {
     Then, inside the parenthesis goes the parameters, separated by ","
 
     all methods have a signature that is composed by (name + parameters)
-    the signature must be unique within a class
+    the signature must be unique within a class,
+    OVERLOAD - is a technic of using the methods with the
+    same name with different para for methods that differ very slightly
     */
     public static int calculateSum(int x,int y) {
         return x + y;
     }
 
     //CALLING A METHOD
-    //methods are only executed if called, with exception of the main method
+    //methods are only executed if called, with the exception of the main method
     public static void main(String[] args){
         int resultSum = calculateSum(10,20);
         System.out.println(resultSum);
