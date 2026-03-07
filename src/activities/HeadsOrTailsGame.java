@@ -47,7 +47,7 @@ public class HeadsOrTailsGame {
                 playAgain = scanner.nextLine();
             }
 
-            if (Objects.equals(playAgain, "N")) break;
+            if (playAgain.equalsIgnoreCase("N")) break;
         }
     }
 }
