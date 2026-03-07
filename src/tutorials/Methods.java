@@ -18,7 +18,8 @@ public class Methods {
 
     The first word of the header is the ACESS MODIFIER(not required), it can be:
     - public: any code from any class can use this method
-    - default: can only be used from classes of the same package
+    - private: can only be accessed by the class it began
+    - default/protected: can only be used from classes of the same package
 
     The second word of the header is the NON-ACESS MODIFIER, it can be:
     - static:
