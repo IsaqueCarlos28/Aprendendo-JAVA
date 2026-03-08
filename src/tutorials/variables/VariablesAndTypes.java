@@ -1,4 +1,4 @@
-package tutorials;
+package tutorials.variables;
 
 public class VariablesAndTypes {
     public static void main (String[] args){

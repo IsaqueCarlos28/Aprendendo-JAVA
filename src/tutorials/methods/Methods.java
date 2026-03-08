@@ -1,4 +1,4 @@
-package tutorials;
+package tutorials.methods;
 
 public class Methods {
 

@@ -1,4 +1,4 @@
-package tutorials;
+package tutorials.loops_and_decisions;
 
 public class RepetitionStructures {
     public static void main(String[] args){

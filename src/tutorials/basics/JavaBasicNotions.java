@@ -2,7 +2,7 @@
 used for logical grouping of java files*/
 //Declaration of the package this class belongs to, it happens in the beginning of the file.
 //CONVENTION: packages names must be in lower case separated by underscore("_")
-package tutorials;
+package tutorials.basics;
 
 //Java files are called Classes (OOP)
 /*Declaration of the class and start of the Java class

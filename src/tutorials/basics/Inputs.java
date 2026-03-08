@@ -1,4 +1,4 @@
-package tutorials;
+package tutorials.basics;
 
 import java.util.Locale;
 //importation of the java.util package witch contains the Scanner class

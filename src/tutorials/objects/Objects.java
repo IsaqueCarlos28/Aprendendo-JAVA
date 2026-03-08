@@ -1,4 +1,4 @@
-package tutorials;
+package tutorials.objects;
 
 //OBJECTS
 // - are structures that contain data in the form of fields(variables) and methods

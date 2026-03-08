@@ -1,4 +1,4 @@
-package tutorials;
+package tutorials.variables;
 
 public class Operators {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package tutorials;
+package tutorials.loops_and_decisions;
 
 import java.util.Locale;
 import java.util.Scanner;
