@@ -13,7 +13,7 @@ public class wrapperClasses {
         Float number5;
         Double number;
         Boolean trueOrFalse;
-        String text1;
+        String text1; //they already are wrapper class
         Character text2;
 
         //Example of methods
