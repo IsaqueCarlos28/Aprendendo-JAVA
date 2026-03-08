@@ -47,4 +47,7 @@ public class Objects {
     public int sumFields(){
         return field1 + field2;
     }
+    public void showFields(){
+        System.out.println("Field1 = " + field1 + "  && Field2 = " + field2);
+    }
 }
