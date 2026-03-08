@@ -33,6 +33,12 @@ public class ObjectsInstance {
         //It's possible to use objects as the return value of a method
         Objects object3 = getObject();
         object3.showFields();
+
+        //Instantiation of a record from "Record"
+        Record record = new Record(1,2,3);
+        // calling access methods = recordName.fielName()
+        System.out.println( record.field1() );
+
     }
     // the Class of the objects are passed as types
     public static int sumEveryObject(Objects object1,Objects object2){
