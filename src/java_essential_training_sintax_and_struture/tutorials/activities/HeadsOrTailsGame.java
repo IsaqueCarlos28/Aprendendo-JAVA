@@ -1,7 +1,6 @@
-package activities;
+package java_essential_training_sintax_and_struture.tutorials.activities;
 
 import java.util.Locale;
-import java.util.Objects;
 import java.util.Random;
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package tutorials;
+package java_essential_training_sintax_and_struture.tutorials;
 
 public class strings {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package tutorials.variables;
+package java_essential_training_sintax_and_struture.tutorials.variables;
 
 public class Arrays {
     public static void main(String[] args){

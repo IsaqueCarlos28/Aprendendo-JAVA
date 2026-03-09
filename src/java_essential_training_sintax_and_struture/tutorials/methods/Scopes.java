@@ -1,4 +1,4 @@
-package tutorials.methods;
+package java_essential_training_sintax_and_struture.tutorials.methods;
 
 public class Scopes {
     //SCOPES

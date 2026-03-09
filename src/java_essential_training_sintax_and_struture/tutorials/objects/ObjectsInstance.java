@@ -1,4 +1,4 @@
-package tutorials.objects;
+package java_essential_training_sintax_and_struture.tutorials.objects;
 
 import java.util.Scanner;
 

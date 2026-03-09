@@ -1,4 +1,4 @@
-package activities;
+package java_essential_training_sintax_and_struture.tutorials.activities;
 
 
 import java.util.Locale;

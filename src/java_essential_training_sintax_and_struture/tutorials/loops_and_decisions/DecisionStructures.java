@@ -1,4 +1,4 @@
-package tutorials.loops_and_decisions;
+package java_essential_training_sintax_and_struture.tutorials.loops_and_decisions;
 
 import java.util.Locale;
 import java.util.Scanner;

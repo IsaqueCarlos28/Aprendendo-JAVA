@@ -1,4 +1,4 @@
-package activities.my_pets;
+package java_essential_training_sintax_and_struture.tutorials.activities.my_pets;
 
 import java.util.Random;
 import java.util.Scanner;

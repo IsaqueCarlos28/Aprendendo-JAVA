@@ -1,4 +1,4 @@
-package tutorials.basics;
+package java_essential_training_sintax_and_struture.tutorials.basics;
 
 import java.util.Locale;
 //importation of the java.util package witch contains the Scanner class

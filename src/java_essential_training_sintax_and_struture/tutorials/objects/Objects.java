@@ -1,4 +1,4 @@
-package tutorials.objects;
+package java_essential_training_sintax_and_struture.tutorials.objects;
 
 //OBJECTS
 // - are structures that contain data in the form of fields(variables) and methods

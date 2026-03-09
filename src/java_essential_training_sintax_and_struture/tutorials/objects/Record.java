@@ -1,4 +1,4 @@
-package tutorials.objects;
+package java_essential_training_sintax_and_struture.tutorials.objects;
 //RECORDS
 // They are type of objects designed to receive data once and don't change it
 // They are commonly referred as POJOS - Plain Old Java Objects

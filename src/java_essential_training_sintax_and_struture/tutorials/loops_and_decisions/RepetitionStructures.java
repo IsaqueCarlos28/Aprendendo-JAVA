@@ -1,4 +1,4 @@
-package tutorials.loops_and_decisions;
+package java_essential_training_sintax_and_struture.tutorials.loops_and_decisions;
 
 public class RepetitionStructures {
     public static void main(String[] args){
