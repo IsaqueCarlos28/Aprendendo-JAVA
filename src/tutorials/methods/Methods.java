@@ -49,10 +49,22 @@ public class Methods {
     }
 
     //CALLING A METHOD
-    //methods are only executed if called, with the exception of the main method
+    //methods are only executed if called, except the main method
     public static void main(String[] args){
         int resultSum = calculateSum(10,20);
         System.out.println(resultSum);
+        //this is how you pass an ARGS
+        showValues(new int[]{0,1,2,3,4,5,6,7,8,9});
     }
 
+    //VARIABLE PARAMETERS - VARARGS - ARGS
+    /*  Variable parameter allows you to be a bit more arbitrary with the number of values
+    you send as a param, it is an ARRAY*/
+    //  A method can only have one Variable parameter
+    //  If a method have other parameters too, then the Variable argument must be declared last
+    public static void showValues(int... a) {
+        for (int i = 0; i < a.length;i++){
+            System.out.println(a[i]);
+       }
+    }
 }
