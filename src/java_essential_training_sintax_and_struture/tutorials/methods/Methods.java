@@ -42,8 +42,7 @@ public class Methods {
     all methods have a signature that is composed by (name + parameters)
     the signature must be unique within a class,
     OVERLOAD - is a technic of using the methods with the
-    same name with different para for methods that differ very slightly
-    */
+    same name with different para for methods that differ very slightly */
     public static int calculateSum(int x,int y) {
         return x + y;
     }
